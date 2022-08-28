@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jehato47
-- 👀 I’m interested in flutter and python
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in flutter, python and blockchain
+- 🌱 I’m currently learning solidity and blockchain
 - 💞️ I’m looking to collaborate on someone curios about blockchain technology
 - 📫 How to reach me : jehat#6247 my discord id
 
